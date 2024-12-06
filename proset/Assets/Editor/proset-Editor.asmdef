@@ -1,0 +1,10 @@
+{
+  "name": "proset-Editor",
+  "references": [
+    "proset"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

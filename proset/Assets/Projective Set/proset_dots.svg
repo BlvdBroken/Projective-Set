@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="1800"
+   viewBox="0 0 317.5 476.25"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="proset_dots.svg"
+   inkscape:export-filename="C:\Users\Sam\Documents\Github\proset\Assets\MasterTemplate\proset_dots.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="true"
+     width="800mm"
+     units="px"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.38796647"
+     inkscape:cx="558.03791"
+     inkscape:cy="930.49278"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid840"
+       spacingx="7.9375"
+       spacingy="7.9375"
+       empspacing="20"
+       color="#b33f68"
+       opacity="0.16862745"
+       empcolor="#3f3fff"
+       empopacity="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ff0000;stroke-width:0.582001"
+       id="path1117"
+       cx="79.375"
+       cy="79.375"
+       r="39.6875" />
+    <circle
+       style="fill:#ff6600;stroke-width:0.582001"
+       id="path1185"
+       cx="238.125"
+       cy="79.375"
+       r="39.6875" />
+    <circle
+       style="fill:#ffd42a;stroke-width:0.582001"
+       id="path1209"
+       cx="79.375"
+       cy="238.125"
+       r="39.6875" />
+    <circle
+       style="fill:#71c837;stroke-width:0.582001"
+       id="path1483"
+       cx="238.125"
+       cy="238.125"
+       r="39.6875" />
+    <circle
+       style="fill:#00ccff;stroke-width:0.582001"
+       id="path1507"
+       cx="79.375"
+       cy="396.875"
+       r="39.6875" />
+    <circle
+       style="fill:#8800aa;stroke-width:0.582001"
+       id="path1531"
+       cx="238.125"
+       cy="396.875"
+       r="39.6875" />
+  </g>
+</svg>

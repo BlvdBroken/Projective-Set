@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: beb0256e14afaf1499abc3b19f4012a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Qlassik Medium
+  fontNames:
+  - Qlassik Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b097bd919e516af41826989412e2369a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

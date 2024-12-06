@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bf4c4919ddc19a643b9be56c94d0bbff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Qlassik Bold
+  fontNames:
+  - Qlassik Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 733d080da9b8d5044bea15c7caae3c97, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
