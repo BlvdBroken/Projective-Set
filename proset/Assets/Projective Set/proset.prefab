@@ -1105,6 +1105,7 @@ GameObject:
   - component: {fileID: 23341162983487584}
   - component: {fileID: 114740160524865888}
   - component: {fileID: 114966661742127760}
+  - component: {fileID: 135286604454956618}
   m_Layer: 0
   m_Name: Submit
   m_TagString: Untagged
@@ -4322,7 +4323,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114993239494694718}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 135286604454956618}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -4783,6 +4785,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!135 &135286604454956618
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1768938872453722}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.010000003
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &212039733186144558
 SpriteRenderer:
   m_ObjectHideFlags: 1
