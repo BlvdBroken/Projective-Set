@@ -3297,8 +3297,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.7254902, g: 1, b: 0.4627451, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 0.4835971, g: 0, b: 0.83823526, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -3313,7 +3313,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3333,8 +3333,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.7254902, g: 1, b: 0.4627451, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 0, g: 1, b: 0, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -3349,7 +3349,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3369,8 +3369,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.7254902, g: 1, b: 0.4627451, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 1, g: 1, b: 0, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -3385,7 +3385,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3405,8 +3405,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.726065, g: 1, b: 0.46323532, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 5
   m_CookieSize: 10
@@ -3421,7 +3421,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3441,8 +3441,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.7254902, g: 1, b: 0.4627451, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 1, g: 0.49803922, b: 0, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -3457,7 +3457,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3477,8 +3477,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.7254902, g: 1, b: 0.4627451, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 0.7980206, g: 0.32352942, b: 1, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -3493,7 +3493,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3513,8 +3513,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.7254902, g: 1, b: 0.4627451, a: 1}
-  m_Intensity: 5
+  m_Color: {r: 0.3897059, g: 0.3897059, b: 1, a: 1}
+  m_Intensity: 10
   m_Range: 0.05
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -3529,7 +3529,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
