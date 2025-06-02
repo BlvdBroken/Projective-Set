@@ -196,7 +196,7 @@ public class proset : MonoBehaviour
 
     void DebugMsg(string msg)
     {
-        Debug.LogFormat("[Proset #{0}] {1}", ModuleId, msg.Replace('\n', ' '));
+        Debug.LogFormat("[Projective Set #{0}] {1}", ModuleId, msg.Replace('\n', ' '));
     }
 
 #pragma warning disable 414
